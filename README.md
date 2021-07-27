@@ -1,4 +1,4 @@
-#Bienvenue dans le projet Todo List.
+# Bienvenue dans le projet Todo List.
 Vous pouvez créer, modifier, supprimer et changer la catégorie de vos Todos (à faire, en cours, terminées).
 
 Pour lancer le projet :
